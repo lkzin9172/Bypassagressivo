@@ -1,0 +1,10 @@
+{
+  "remote_core_rules": {
+    "protocol": "UDP_ENCRYPTED_TUNNEL",
+    "anti_ban_mode": "ULTRA_ACTIVE",
+    "packet_interception": "ENABLED",
+    "server_handshake_spoof": "TRUE",
+    "ban_signal_suppression": "TRUE",
+    "network_masking": "AES-256-GCM"
+  }
+}
