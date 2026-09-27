@@ -12,7 +12,7 @@
         },
         {
             "label": "Anti-Ban Shield",
-            "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/security_shield.json",
+            "url": "https://raw.githubusercontent.com/lkzin9172/Bypassagressivo/main/security_shield.json",
             "enabled": true,
             "allow": false,
             "redirect": true
