@@ -1,0 +1,10 @@
+{
+  "remote_security_shield": {
+    "identity_masking": "ULTRA_ACTIVE",
+    "ip_spoofing": "DYNAMIC_TUNNELING",
+    "device_id_masking": "TRUE",
+    "anti_kick_protocol": "ENABLED",
+    "session_persistence": "MAX",
+    "blacklist_prevention": "TRUE"
+  }
+}
